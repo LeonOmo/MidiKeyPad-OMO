@@ -49,4 +49,10 @@ The PCB in KiCAD
 
 ## Extra
 
+At this project im most proud of my PCB wiring as it is way cleaner than my lasts and you can just see where what is going where. 
+
 ## Bonus
+
+Before i saw the midi Keypad i wanted to make "MusicMaker!" which is probably a future project of mine. The MusicMaker! will be sort of the same but i will use a buzzer / noise output to make noise and also it will have batteries.
+
+<img width="941" height="584" alt="image" src="https://github.com/user-attachments/assets/41da697e-cd06-4ea1-8e5d-e4d483fe5c1f" />
