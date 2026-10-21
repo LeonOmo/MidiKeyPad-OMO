@@ -30,7 +30,7 @@ The MidiKeypad is a circut board designed to
 
 ## Schematic
 
-<img width="954" height="339" alt="Screenshot 2026-10-21 184545" src="https://github.com/user-attachments/assets/54c9a4e8-eda9-42bc-9de1-598304f0bdce" />
+<img width="904" height="439" alt="Screenshot 2026-10-21 184545" src="https://github.com/user-attachments/assets/54c9a4e8-eda9-42bc-9de1-598304f0bdce" />
 
 ## PCB
 
