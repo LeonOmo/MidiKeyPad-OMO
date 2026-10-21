@@ -41,7 +41,7 @@ The MidiKeypad is a circut board designed to
 
 <img width="406" height="375" alt="Screenshot 2026-10-21 182320" src="https://github.com/user-attachments/assets/d155bfc1-f41d-4ef0-83b2-a8d0c4677ccb" />
 
-<img width="395" height="434" alt="Screenshot 2026-10-21 182348" src="https://github.com/user-attachments/assets/4f7bcbdd-476a-45de-936f-799c287c5cd9" />
+<img width="406" height="375" alt="Screenshot 2026-10-21 182348" src="https://github.com/user-attachments/assets/4f7bcbdd-476a-45de-936f-799c287c5cd9" />
 
 ## Extra
 
