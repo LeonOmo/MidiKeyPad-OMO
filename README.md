@@ -20,6 +20,7 @@ The MidiKeypad is a circut board designed to
 | RV1-2 | Potentiometer Bourns PTA1543 Single Slide | | | |
 | SW1-3 | Kailh Choc Low Profile Switch | | | |
 | SW4 | EC11 Rotary Encoder | | | |
+| Total Price | | | | |
 
 ## Tools
 
