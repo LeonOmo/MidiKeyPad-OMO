@@ -15,11 +15,11 @@ The MidiKeypad is a circut board designed to
 ## Bill of Materials
 
 | Designator | Component | LCSC Number /  | Total Price | Description |
-| :--- | :--- | :--- | :--- |
-| U1 | Waveshare ESP32-S3-Zero | | |
-| RV1-2 | Potentiometer Bourns PTA1543 Single Slide | | |
-| SW1-3 | Kailh Choc Low Profile Switch | | |
-| SW4 | EC11 Rotary Encoder | | |
+| :--- | :--- | :--- | :--- | :--- |
+| U1 | Waveshare ESP32-S3-Zero | | | |
+| RV1-2 | Potentiometer Bourns PTA1543 Single Slide | | | |
+| SW1-3 | Kailh Choc Low Profile Switch | | | |
+| SW4 | EC11 Rotary Encoder | | | |
 
 ## Tools
 
