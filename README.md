@@ -6,15 +6,20 @@ The MidiKeypad is a circut board designed to
 
 ## What does it do?
 
-- 
+The Midi Keypad OMO is a version of the Midi Keypad but with a few changes. Build around the Waveshare ESP32-S3-Zero
+
+- Microcontroller: Waveshare ESP32-S3-Zero
+- Switches: For instrument choice (preset change) and maybe one button for on / off
+- Slide Potentiometers: For volume controller
+- Midi Controlls: Exposed copper for note input (7 Playable Notes)
 
 ## Why does it exist?
 
-- 
+- Just for the love of the game?: My intentions behind making this was for the pure joy i get designing
 
 ## Bill of Materials
 
-| Designator | Component | LCSC Number /  | Total Price | Description |
+| Designator | Component | LCSC Number / Where to get | Total Price | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | U1 | Waveshare ESP32-S3-Zero | | | |
 | RV1-2 | Potentiometer Bourns PTA1543 Single Slide | | | |
@@ -49,10 +54,10 @@ The PCB in KiCAD
 
 ## Extra
 
-At this project im most proud of my PCB wiring as it is way cleaner than my lasts and you can just see where what is going where. 
+Yes i know i should be more creative with projects like these but Kais version is just so amazing that i wanted to make a similar one. At this project, Im most proud of my PCB wiring as it is way cleaner than my lasts and you can just see where what is going where. 
 
 ## Bonus
 
-Before i saw the midi Keypad i wanted to make "MusicMaker!" which is probably a future project of mine. The MusicMaker! will be sort of the same but i will use a buzzer / noise output to make noise and also it will have batteries.
+Before i saw the Midi Keypad i wanted to make "MusicMaker!" which is probably a future project of mine. The MusicMaker! will be sort of the same but i will use a buzzer / noise output to make noise and also it will have batteries.
 
 <img width="941" height="584" alt="image" src="https://github.com/user-attachments/assets/41da697e-cd06-4ea1-8e5d-e4d483fe5c1f" />
