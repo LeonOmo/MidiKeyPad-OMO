@@ -30,9 +30,13 @@ The MidiKeypad is a circut board designed to
 
 ## Schematic
 
+The Schematics in KiCAD
+
 <img width="904" height="439" alt="Screenshot 2026-10-21 184545" src="https://github.com/user-attachments/assets/54c9a4e8-eda9-42bc-9de1-598304f0bdce" />
 
 ## PCB
+
+The PCB in KiCAD
 
 <img width="406" height="375" alt="Screenshot 2026-10-20 174015" src="https://github.com/user-attachments/assets/3512e822-80a2-4864-92f7-6d4bd46ff25d" />
 <img width="406" height="375" alt="Screenshot 2026-10-20 174000" src="https://github.com/user-attachments/assets/51a8be72-8ebf-4bdc-8968-6379e4fe2bd7" />
