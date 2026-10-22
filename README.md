@@ -9,7 +9,8 @@ The MidiKeypad is circuit board built around the ESP32-S3-Zero created to serve 
 The Midi Keypad OMO is a version of Kais Midi Keypad but with a few changes. Build around the Waveshare ESP32-S3-Zero
 
 - Microcontroller: Waveshare ESP32-S3-Zero
-- Switches: For instrument choice (preset change) and maybe one button for on / off
+- Switches: For instrument choice (preset change)
+- Rotary Encoder: Tempo adjustments
 - Slide Potentiometers: For volume controller
 - Midi Controlls: Exposed copper for note input (7 Playable Notes)
 
