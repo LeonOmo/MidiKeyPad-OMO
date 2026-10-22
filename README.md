@@ -19,13 +19,15 @@ The Midi Keypad OMO is a version of the Midi Keypad but with a few changes. Buil
 
 ## Bill of Materials
 
-| Designator | Component | LCSC Number / Where to get | Total Price | Description |
-| :--- | :--- | :--- | :--- | :--- |
-| U1 | Waveshare ESP32-S3-Zero | | | |
-| RV1-2 | Potentiometer Bourns PTA1543 Single Slide | | | |
-| SW1-3 | Kailh Choc Low Profile Switch | | | |
-| SW4 | EC11 Rotary Encoder | | | |
-| Total Price | | | | |
+| Designator | Component | LCSC Number / Link | Amount | Total Price | Description |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| U1 | Waveshare ESP32-S3-Zero | | | | |
+| RV1-2 | Potentiometer Bourns PTA1543 Single Slide | | | | |
+| SW1-3 | Kailh Choc Low Profile Switch | | | | |
+| SW4 | EC11 Rotary Encoder | https://de.aliexpress.com/item/1005008716778661.html | 2,69 € / 3,01 $ | Rotary Encoder for  | |
+| Total Price | | | | | |
+| Shipping | | | | | |
+| Total price with shipping | | | | | |
 
 ## Tools
 
