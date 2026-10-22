@@ -2,7 +2,7 @@
 
 ## What is this project?
 
-The MidiKeypad is circuit board built around the ESP32-S3-Zero created to serve as a minimalist, pocket sized MIDI input device for sound generation.
+The MidiKeypad is circuit board built around the ESP32-S3-Zero created to serve as a  pocket sized MIDI input device for sound generation.
 
 ## What does it do?
 
