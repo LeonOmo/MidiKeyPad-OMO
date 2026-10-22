@@ -15,7 +15,7 @@ The Midi Keypad OMO is a version of the Midi Keypad but with a few changes. Buil
 
 ## Why does it exist?
 
-- Just for the love of the game?: My intentions behind making this was for the pure joy i get designing
+- Just for the love of the game?: My intentions behind making this was for the pure joy i get from designing / soldering / wiring 
 
 ## Bill of Materials
 
