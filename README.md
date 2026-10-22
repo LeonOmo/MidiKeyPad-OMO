@@ -21,13 +21,14 @@ The Midi Keypad OMO is a version of the Midi Keypad but with a few changes. Buil
 
 | Designator | Component | LCSC Number / Link | Amount | Total Price | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| U1 | Waveshare ESP32-S3-Zero | | | |  |
-| RV1-2 | Potentiometer Bourns PTA1543 Single Slide | | 2x | | Sliding Potentiometer for volume control |
-| SW1-3 | Kailh Choc Low Profile Switch | | | | For  |
+| U1 | Waveshare ESP32-S3-Zero | | 1x | 5,17 € / 5,79 $ | The Brain |
+| RV1-2 | Potentiometer Bourns PTA1543 Single Slide | https://de.aliexpress.com/item/1005007386348713.html| 2x | 6,10 € / 6,83 $ | Sliding Potentiometer for volume control |
+| SW1-3 | Kailh Choc Low Profile Switch | https://de.aliexpress.com/item/1005011812200097.html | 3x | 7,61 € / 8,52 $ | For switching between presets |
 | SW4 | EC11 Rotary Encoder | https://de.aliexpress.com/item/1005008716778661.html | 1x | 2,69 € / 3,01 $ | Rotary Encoder for |
-| Total Price | | | | | |
-| Shipping | | | | | |
-| Total price with shipping | | | | | |
+| PCB | PCB | JLPCB | 1x | 4,00 $ | The PCB |
+| Total Price | | 28,15 $ | | | |
+| Shipping | | JLPCB 6,04 $ | | | |
+| Total price with shipping | 34,19 $ |  | | | |
 
 ## Tools
 
